@@ -1,2 +1,2 @@
 # TurtleArtDesign
-<img src="https://github.com/Loreleiii/TurtleArtDesign/edit/master/pic.PNG">
+<img src="https://github.com/Loreleiii/TurtleArtDesign/blob/master/pic.PNG">
